@@ -1,0 +1,96 @@
+Successful Database/ Cloud / Solutions Architect with Global Corporate Experience
+------------------------------------------------------
+
+
+
+Possess an in-depth knowledge and understanding of all stages of software development life cycle (SDLC). Experienced at developing and supporting database/automation solutions.
+Skilled at developing and implementing reporting and data solutions.
+Proven background improving process quality and providing system automation. 
+Manage solutions and data efficiently using today’s newest, most stable technologies.
+Maintain open constructive communications and working relationships at all business levels.
+
+TECHNICAL SKILLS SUMMARY
+
+Languages: 		HTML, CSS, T-SQL, PHP, XML, Apex, JavaScript and similar languages, and new 
+languages developed on a daily basis
+Databases: 		Microsoft SQL 2000/2005, MySQL, Microsoft Access, Cloud Technologies 
+(force.com)
+Operating Systems: 	Windows XP, Vista, 7 Windows 2000 Server, Linux
+Applications: 		Web Servers (IIS, Apache), advanced use of Adobe Master Collection, FTP 
+Management, Proprietary Applications.
+
+PROFESSIONAL EXPERIENCE
+
+Interval International 								   	Miami, FL 
+Technical Lead - CRM Systems Development 				June 2014 – February 2016
+Original project that was loosely established was: A Full Cloud Integration from Legacy and other systems (apis, etl, txt, inner-application extraction) to the Salesforce Platform/Force Framework  one department at a time beginning with marketing, specifically 5000+ marketing offer updates to the live site as i doubled as R+D, and Current Offer maintenance. Infor CRM
+Suite v7 to v10 upgrade
+Vendor /partner Documentation and optimization from Infor. 
+Allow proper Integration and Internal corporate compliance.
+Analysis and optimization and upgrade Marketing Offer Data to real time BI system.
+Local Oracle Server> ETL (informatica)> AS400 process Analysis
+Process optimization for marketing affiliate data sharing.
+Global Business process and product Analysis for upgrade purposes.
+Hands-on CRM, ERP, ETL Frameworks for cloud integrations:
+Exploration
+Documentation 
+Discovery
+Prototype testing and data QA
+Data integration Factors and designs.
+Testing each vendor's solutions and offerings.
+Align business need with technology
+Integrate / Design / Optimise / Reports for Company-wide Business intelligence with frameworks and BPMs for the full product lifecycle(Customer, Account, Product Data.)
+
+Telefonica										       Miami, FL 
+Lead CRM Systems Developer	             			 		            June 2010 - April 2013
+Develop, plan, implement a sales CRM system for a global telecommunications company for all users including but not limited to: Pre-sales, Sales, Post-Sales, Support, Customers, etc.
+Lead meetings with global users to assess user need
+Meet with business development to assess business needs.
+Develop Multiple Projects with Salesforce and Visualforce from beginning to end
+Plan processes, Plan development, Plan Implementation
+Assess outsource / in-house development
+Assess, test, recommend, and install software for usage.
+Create data applications/connections/reports between multiple countries and data-types for review by non-technical executives.
+Data management
+Process data from legacy sources (excel, TXT, XML, CSV, etc..)
+Normalise, Analyze, Interpret, Import, Manipulate, Broadcast all types of data within the company for enhancement, optimization, aggregation purposes.
+Report Management
+Create, Analyze, Develop new and intuitive reporting using new web technologies and legacy data.
+Develop Documentation for all projects.
+
+Global Restaurant Equipment 								        Miami, FL
+Systems Consultant 							        February 2009 - Dec 2009
+Utilised MySQL to manage, modify and update online product data for a restaurant equipment company.
+eBay Store maintenance including data modification and optimization
+Managed the Internet Marketing for a restaurant equipment company
+Created and directed all Internet & print marketing advertisements.
+
+MerchantAdvantage									        Miami, FL
+Senior Software Developer 					                        October 2005-June 2008
+Validated, normalized and trouble-shoot proprietary shopping cart data exports.
+Deciphered specifications from technical Marketing channels
+Relayed complex ideas to programmers for software upgrades.
+Managed weekly webinar planning and presentations about marketing and software usage.
+Administered pre-sale demonstrations via phone, screen-cast webinars, and industry conventions.
+Planned, designed, and implemented application database code objects, such as stored procedures and views for use in proprietary software processes
+Built and maintained SQL scripts and complex queries for data analysis and extraction.
+Performed quality assurance and testing of SQL server in a software development environment.
+Developed new processes to facilitate data import and normalisation.
+Worked with business stakeholders, application developers, and production teams and across functional units to identify business needs and discuss solution options.
+Supported all production operation activities, with focus on integration and development of new and existing products and services.
+Acted as project manager to create development teams to identify and implement reporting, control, and automation opportunities to improve overall access to information.
+Utilised SQL reporting services on SQL 2005 to create XML data that was used for customer analytics and tracking mechanisms
+Assisted new and existing clients with integration and data conversion activities.
+Identified data issues and provided recommendations for resolution to ensure optimal performance.
+Worked with internal and external clients for import and normalisation of third-party data using DTS and SSIS packages.
+Documented and maintained database system specifications, diagrams, and charts.
+Monitored and provided front-line support of daily processes.
+
+EDUCATION / CERTIFICATIONS
+
+Barry University, Miami Shores, FL								       
+Bachelor of Science - Computer Science 							  
+
+CRM Certified Developer 401 (Salesforce)
+
+DEV Platform Developer I						  
